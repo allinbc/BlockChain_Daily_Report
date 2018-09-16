@@ -1,3 +1,4 @@
+![](https://github.com/HuobiUniversity/BlockChain_Daily_Report/blob/master/%E7%81%AB%E5%B8%81%E5%A4%A7%E5%AD%A6.png)
 # BlackChain_Daily_Report
 分享每日区块链相关的技术文章
 
